@@ -56,12 +56,17 @@ body{
     border-radius: 0.3rem;
 }
 .section3Box2{
+    max-width: 30%;
     display: flex;
     background: var(--orgbackground);
     justify-content: space-evenly;
     flex-grow: 2.5;
     outline: 1.5px solid black;
     border-radius: 0.3rem;
+}
+.section3Box2pic{
+    padding-top: 30px;
+    height: 190px;
 }
 footer{
     background: lightgray;

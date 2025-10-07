@@ -55,7 +55,7 @@ body{
     outline: 1.5px solid black;
     border-radius: 0.3rem;
 }
-.section3Box2{
+.section3Box1{
     max-width: 30%;
     display: flex;
     background: var(--orgbackground);
@@ -63,9 +63,10 @@ body{
     flex-grow: 2.5;
     outline: 1.5px solid black;
     border-radius: 0.3rem;
+    text-align: center;
 }
-.section3Box2pic{
-    padding-top: 30px;
+.section3Box1info{
+    padding: 1rem;
     height: 190px;
 }
 footer{
